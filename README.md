@@ -16,8 +16,40 @@ This repository is created to **practice Git commands hands-on** and maintain a 
 ###  git commit
 - Usage: `git commit -m "Message"`
 - Example: `git commit -m "Initial commit"`
+- ✅ git fetch origin
+→ Downloaded changes from GitHub, didn’t merge automatically
 
+✅ git revert HEAD
+→ Undid last commit safely, added a revert commit
 
-...
+✅ git remote -v
+→ Showed connected GitHub repo URLs
+
+✅ git clone <url>
+→ Created full copy of GitHub project to local system
+
+✅ git fetch origin
+→ Downloaded changes from GitHub, didn’t merge automatically
+
+✅ git revert HEAD
+→ Undid last commit safely, added a revert commit
+
+✅ git remote -v
+→ Showed connected GitHub repo URLs
+
+✅ git clone <url>
+→ Created full copy of GitHub project to local system
+
+✅ git fetch origin
+→ Downloaded changes from GitHub, didn’t merge automatically
+
+✅ git revert HEAD
+→ Undid last commit safely, added a revert commit
+
+✅ git remote -v
+→ Showed connected GitHub repo URLs
+
+✅ git clone <url>
+→ Created full copy of GitHub project to local system
 
 👩‍💻 Made with ❤️ by [Neduri Sri Ramya]
